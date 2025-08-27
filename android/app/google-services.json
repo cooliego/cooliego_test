@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "887063257280",
+    "firebase_url": "https://cooliego6969-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cooliego6969",
+    "storage_bucket": "cooliego6969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887063257280:android:9d9fbfa811f1758c710d25",
+        "android_client_info": {
+          "package_name": "com.cooliego.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ4xoKQvpFvGz_I5slY180gVoYglwagIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887063257280:android:e3cafd2b91b95bd1710d25",
+        "android_client_info": {
+          "package_name": "com.mycompany.cooliegobusiness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ4xoKQvpFvGz_I5slY180gVoYglwagIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
